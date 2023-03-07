@@ -1,0 +1,18 @@
+{
+  "name": "review_backend_api",
+  "version": "1.0.0",
+  "description": "This is the project created for educational purpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Muhammad Wyzer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
